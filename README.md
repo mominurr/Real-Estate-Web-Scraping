@@ -47,4 +47,11 @@ A sample JSON file containing property and agent data is attached to this reposi
 ---
 
 ### Contact Information
-For more details about this project or to discuss custom scraping solutions, please reach out via [LinkedIn](https://www.linkedin.com/in/mominur--rahman/) or visit my [portfolio website](https://mominur.dev).
+For any inquiries or service requests, please reach out to me via LinkedIn or visit my portfolio website:
+
+- **Portfolio:** [mominur.dev](https://mominur.dev)
+- **GitHub:** [github.com/mominurr](https://github.com/mominurr)
+- **LinkedIn:** [linkedin.com/in/mominur--rahman](https://www.linkedin.com/in/mominur--rahman/)
+- **Email:** mominurr518@gmail.com
+
+I look forward to connecting with you!
