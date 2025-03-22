@@ -2,6 +2,17 @@
 
 This project is designed to extract property and agent data from leading real estate websites such as Zillow, Realtor.com, Microburbs, Realtor.ca, and Walk Score. The automated web scraping process gathers critical information that aids in market analysis, property valuation, and agent profiling. Below are the details of the data extracted from each source and how it benefits users in making informed decisions regarding real estate investments.
 
+# ⚠️ **Important Notice: Business Use Only** ⚠️
+
+This repository is for **demonstration purposes only** and **not for free use**. It showcases my professional expertise in **web scraping** and **automation**.
+
+🚫 **Unauthorized use, redistribution, or modification is strictly prohibited.**
+
+💼 **For custom web scraping and automation solutions, please contact me directly for professional, business-focused services.**
+
+📩 [Get in Touch](https://mominur.dev)
+
+
 ## Key Features of the Project
 
 ### 1. Property Data Extraction
