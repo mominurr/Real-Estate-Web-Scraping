@@ -1,4 +1,4 @@
-# Project: Real Estate Web Scraping
+# Real Estate Web Scraping
 
 This project is designed to extract property and agent data from leading real estate websites such as Zillow, Realtor.com, Microburbs, Realtor.ca, and Walk Score. The automated web scraping process gathers critical information that aids in market analysis, property valuation, and agent profiling. Below are the details of the data extracted from each source and how it benefits users in making informed decisions regarding real estate investments.
 
